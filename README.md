@@ -54,7 +54,7 @@ The group was configured with one resource owner and three test users to simulat
 * Identity lifecycle management
 * Least privilege
 
-### Screenshot
+### Lab Evidence
 
 <img width="477" height="705" alt="#1 Finanace Security Group" src="https://github.com/user-attachments/assets/a4b68d20-4bed-41de-9a72-05ce04001003" />
 
@@ -78,7 +78,7 @@ The review was configured to evaluate all users currently assigned to the group.
 
 This simulates an organization's quarterly access certification process.
 
-### Screenshot
+### Lab Evidence
 
 <img width="673" height="671" alt="#2 Access Review Configuration" src="https://github.com/user-attachments/assets/ca72dbbf-3b51-4239-81b7-d107655ceb92" />
 
@@ -95,12 +95,11 @@ This establishes a governance process where access is periodically reevaluated r
 
 `User Access → Periodic Review → Approve/Deny Decision → Remediation → Audit Evidence`
 
-### Screenshot
+### Lab Evidence
 
 <img width="726" height="683" alt="Access Review Create" src="https://github.com/user-attachments/assets/358049e0-76fc-4bf3-87c1-767e4131815d" />
 
 <img width="746" height="710" alt="#3 Access Review Settings" src="https://github.com/user-attachments/assets/f09102d3-5bd2-4222-b6e5-6130aedbd38b" />
-
 
 
 ---
@@ -116,7 +115,7 @@ The Access Review overview confirmed:
 * Resource owners assigned as reviewers
 * Quarterly recurrence configured
 
-### Screenshot
+### Lab Evidence
 
 <img width="992" height="675" alt="#4 Active Access Review" src="https://github.com/user-attachments/assets/6f88492a-2c6d-44f5-9033-02b3f9201c84" />
 
@@ -139,7 +138,7 @@ For testing purposes, different decisions are made to demonstrate the certificat
 
 This demonstrates how resource owners can validate business need before users retain access to sensitive resources.
 
-### Screenshot
+### Lab Evidence
 
 <img width="1187" height="468" alt="#5 Reviewer Decisions" src="https://github.com/user-attachments/assets/ad0a7978-539a-4796-bd06-99b19f24ad0e" />
 
@@ -154,7 +153,7 @@ This demonstrates the complete access governance lifecycle:
 
 `Provision → Review → Certify → Remediate → Audit`
 
-### Screenshot
+### Lab Evidence
 
 <img width="729" height="664" alt="#6 Remediation Results" src="https://github.com/user-attachments/assets/1bb6fd8f-d59b-4185-9e83-8f100fc51df2" />
 
