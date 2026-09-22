@@ -1,6 +1,3 @@
-# Entra-ID-Access-Reviews-Lab
-Hands-on Microsoft Entra ID Governance lab demonstrating Access Reviews, access certification, least privilege, and automated access remediation.
-
 # Microsoft Entra ID Access Reviews Lab
 
 ## Project Overview
@@ -177,6 +174,25 @@ This project demonstrates practical experience with:
 * Access Remediation
 * Identity Lifecycle Management
 * Audit Readiness
+
+## Connection to My Professional Experience
+
+This lab directly connects to access governance responsibilities I performed
+in a previous Help Desk/IT support role.
+
+As part of monthly access reviews, I audited employee accounts to verify that
+assigned skills and access aligned with the jobs employees were authorized to
+perform. I also reviewed effective/start dates and validated access
+requirements.
+
+When access or skill assignments did not align with approved requirements,
+I worked with trainers, team leads, and managers to validate the appropriate
+access.
+
+Working with Microsoft Entra Access Reviews allowed me to apply those same
+access governance concepts within a modern IAM platform, including periodic
+access certification, reviewer decisions, least privilege, remediation, and
+audit evidence.
 
 ## What I Learned
 
